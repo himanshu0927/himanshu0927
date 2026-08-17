@@ -32,8 +32,8 @@
 <h2>Who I Am</h2>
 
 <pre lang="ts"><code>const himanshuKashyap = {
-  title: "Frontend Developer",
-  stack: ["Python", "Java (Basics)", "SQL", "HTML", "CSS", "Django"],
+  title: "Frontend Developer | Python ML Learner",
+  stack: ["Python", "Streamlit", "Scikit-learn", "Pandas", "Plotly", "SQL", "HTML", "CSS"],
   launchedProjects: [
     {
       name: "HeartCare-AI",
@@ -56,10 +56,10 @@
   <tr><th align="left">Interface</th><th align="left">Details</th></tr>
   <tr><td>Role</td><td>Frontend Developer</td></tr>
   <tr><td>Frontend</td><td>HTML, CSS</td></tr>
-  <tr><td>Backend</td><td>Django</td></tr>
+  <tr><td>Backend</td><td>Python, Streamlit</td></tr>
   <tr><td>Language Base</td><td>Python, Java Basics</td></tr>
-  <tr><td>Database</td><td>SQL</td></tr>
-  <tr><td>Featured Build</td><td>HeartCare-AI</td></tr>
+  <tr><td>Data/ML</td><td>Pandas, Scikit-learn, Plotly</td></tr>
+  <tr><td>Featured Build</td><td>HeartCare AI</td></tr>
 </table>
 
   </td>
@@ -81,13 +81,22 @@
 
 <h3>HeartCare-AI</h3>
 
+<p>
+  <img src="https://raw.githubusercontent.com/himanshu0927/HeartCare-AI/main/assets/heartcare-dashboard-new.png" alt="HeartCare AI dashboard preview" />
+</p>
+
 <table>
   <tr><th align="left">Layer</th><th align="left">Technology</th></tr>
-  <tr><td>Languages</td><td>Python, Java (Basics)</td></tr>
-  <tr><td>Frontend</td><td>HTML, CSS</td></tr>
-  <tr><td>Backend</td><td>Django</td></tr>
-  <tr><td>Database</td><td>SQL</td></tr>
+  <tr><td>Language</td><td>Python</td></tr>
+  <tr><td>App Framework</td><td>Streamlit</td></tr>
+  <tr><td>ML Stack</td><td>Scikit-learn, Pandas</td></tr>
+  <tr><td>Visualization</td><td>Plotly, Matplotlib</td></tr>
+  <tr><td>AI Support</td><td>Google Gemini API</td></tr>
 </table>
+
+<p>
+  HeartCare AI is a cardiovascular risk screening dashboard with model comparison, risk gauge, patient analytics, treatment guidance, emergency simulation, HeartBot assistant, and PDF report export.
+</p>
 
 <p>
   <a href="https://github.com/himanshu0927/HeartCare-AI">
