@@ -102,6 +102,9 @@
   <a href="https://github.com/himanshu0927/HeartCare-AI">
     <img src="https://img.shields.io/badge/View%20Code-HeartCare--AI-7dd3fc?style=for-the-badge&logo=github&logoColor=white&labelColor=0f172a" alt="HeartCare-AI code" />
   </a>
+  <a href="https://heartcare-ai-vdgps7vjqwmtetb6xxnhoz.streamlit.app/">
+    <img src="https://img.shields.io/badge/Live%20Demo-Streamlit-d63031?style=for-the-badge&logo=streamlit&logoColor=white&labelColor=0f172a" alt="HeartCare AI live demo" />
+  </a>
 </p>
 
   </td>
