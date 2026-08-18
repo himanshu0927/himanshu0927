@@ -36,7 +36,7 @@
   stack: ["Python", "Streamlit", "Scikit-learn", "Pandas", "Plotly", "SQL", "HTML", "CSS"],
   launchedProjects: [
     {
-      name: "HeartCare-AI",
+      name: "HeartCare AI by Himanshu Kashyap",
       code: "https://github.com/himanshu0927/HeartCare-AI"
     }
   ],
@@ -79,7 +79,7 @@
     </td>
     <td width="45%" valign="top">
 
-<h3>HeartCare-AI</h3>
+<h3>HeartCare AI by Himanshu Kashyap</h3>
 
 <p>
   <img src="https://raw.githubusercontent.com/himanshu0927/HeartCare-AI/main/assets/heartcare-dashboard-new.png" alt="HeartCare AI dashboard preview" />
@@ -95,7 +95,7 @@
 </table>
 
 <p>
-  HeartCare AI is a cardiovascular risk screening dashboard with model comparison, risk gauge, patient analytics, treatment guidance, emergency simulation, HeartBot assistant, and PDF report export.
+  HeartCare AI by Himanshu Kashyap is a cardiovascular risk screening dashboard with model comparison, risk gauge, patient analytics, treatment guidance, emergency simulation, HeartBot assistant, and PDF report export.
 </p>
 
 <p>
